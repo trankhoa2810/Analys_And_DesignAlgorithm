@@ -2,6 +2,7 @@
 
 typedef int keytype;
 typedef float othertype;
+
 typedef struct{
 	keytype key;
 	othertype otherfields;
